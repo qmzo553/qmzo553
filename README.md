@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmzo553)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmzo553&show_icons=true&theme=dracula)</br>
 
-안녕하세요!! 반갑습니다!:smile::wave: </br>
+안녕하세요!! 반갑습니다! :smile: :wave: </br>
 제 이름은 박희준 입니다. </br>
 현재 백엔드 개발자를 목표로 공부하고 있습니다. </br>
-목표를 향해 끈질기게 매달리는 집요한 개발자가 되기 위해 노력중입니다!!:fire:
+목표를 향해 끈질기게 매달리는 집요한 개발자가 되기 위해 노력중입니다!! :fire:
 
 ## :email: Contact
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99hjpark@gmail.com) 99hjpark@gmail.com  
