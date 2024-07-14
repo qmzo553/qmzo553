@@ -27,7 +27,8 @@ Here are some ideas to get you started:
   :books: NHN Academy - 온라인 서점
 </summary>
 
-### 팀 프로젝트
+### Repository
+[GitHub Repository](https://github.com/nhnacademy-be6-AA)
 
 ### 프로젝트 기술 스택
 #### IDE
