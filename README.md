@@ -13,16 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
+   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+GitHub!👋)
 
 ### GitHub 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmzo553)](https://github.com/anuraghazra/github-readme-stats)</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmzo553&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmzo553&show_icons=true&theme=dracula)</br>
+
+안녕하세요!! 반갑습니다! :smile: :wave: </br>
+제 이름은 박희준 입니다. </br>
+현재 백엔드 개발자를 목표로 공부하고 있습니다. </br>
+목표를 향해 끈질기게 매달리는 집요한 개발자가 되기 위해 노력중입니다.
 
 ## :email: Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99hjpark@gmail.com)
-[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](mailto:qmzo553@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99hjpark@gmail.com) 99hjpark@gmail.com  
+[![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)](mailto:qmzo553@naver.com) qmzo553@naver.com
 
 ## :books: 프로젝트 목록
 <details>
