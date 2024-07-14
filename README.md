@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Repository
 [GitHub Repository](https://github.com/nhnacademy-be6-AA)
 
-### 프로젝트 기술 스택
+### Tech
 #### IDE
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 #### CI/CD
