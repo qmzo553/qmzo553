@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ### Repository
 [GitHub Repository](https://github.com/nhnacademy-be6-AA)
-</br>
 
 ### Tech
 #### IDE
