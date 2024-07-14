@@ -68,8 +68,6 @@ Here are some ideas to get you started:
 [Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 </details>
 
----
-
 ### GitHub 통계
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qmzo553)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qmzo553&show_icons=true&theme=dracula)</br>
