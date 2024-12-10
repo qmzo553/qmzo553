@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## :books: 프로젝트 목록
 <details>
 <summary>
-   :green_book: NHN Academy - 온라인 서점
+   :green_book: 온라인 서점
 </summary>
 
 ### Repository
